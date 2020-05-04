@@ -1,7 +1,7 @@
 # dsiprojects
 ### Overview
 
-This project seeks predict the price of housing and identify likely predictors influencing housing prices in Ames,Iowa.This can be done by looking into the house characteristics and locations.
+This project seeks to identify the best regression model to predict the price of the housing in Ames, Iowa and the best predictors of housing prices. This can be done by looking into the house characteristics and locations.
 
 ### Datasets
 
