@@ -47,3 +47,9 @@ These are the data obtained from the keto and gainit subreddit. The complete dat
 | logistic regression |   NA   |  Ridge  | *C* = 0.01 |       0.947      |      0.892      |CountVectorizer|
 
 Taking into consideration the various metrics which includes: accuracy, precision, sensitivity, f1-score and AUC-ROC the logistic regression model fitted with features extracted from unstructured text by fitting and transforming with `TfidfVectorizer` performed the best.
+
+### Content
+
+There are 2 notebooks:
+1. [Data Collection](./code/Project 3 - Data Collection.ipynb)
+2. [Project](./code/Project 3 - Classification of Subreddit posts.ipynb)
