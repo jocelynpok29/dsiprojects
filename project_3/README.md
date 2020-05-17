@@ -51,5 +51,5 @@ Taking into consideration the various metrics which includes: accuracy, precisio
 ### Content
 
 There are 2 notebooks:
-1. [Data Collection](./code/Project 3 - Data Collection.ipynb)
-2. [Project](./code/Project 3 - Classification of Subreddit posts.ipynb)
+1. Project 3 - Data Collection.ipynb
+2. Project 3 - Classification of Subreddit posts.ipynb
