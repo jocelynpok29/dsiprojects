@@ -1,0 +1,6 @@
+[submodule "planogram_submission/planogram_submission/planogram_sample"]
+	path = planogram_submission/planogram_submission/planogram_sample
+	url = https://bitbucket.org/omnistream/planogram_sample.git
+[submodule "planogram_submit/planogram_sample"]
+	path = planogram_submit/planogram_sample
+	url = https://bitbucket.org/omnistream/planogram_sample.git
